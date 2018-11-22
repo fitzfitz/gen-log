@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "auth": false,
+    "message": "",
+    "data": [{
+        "value": 1,
+        "display": "Outlet - Test 1"
+    }, {
+        "value": 2,
+        "display": "Outlet - Test 2"
+    }]
+}
